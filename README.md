@@ -1,5 +1,5 @@
 # api-testing-with-mocha-and-chai
-An API testing using Mocha framework and Chai as assertion with Page Object Model design pattern.
+An API testing using Mocha framework and Chai as assertion.
 
 For this simple project I use https://calm-plum-jaguar-tutu.cyclic.app/todos
 
