@@ -13,7 +13,7 @@ class TodosApp {
   getTodos() {
     return this.chai.request(this.baseUrl).get("/todos");
   }
-  
+
   getTodosId(todosId) {
     return this.chai.request(this.baseUrl).get(`/todos/${todosId}`);
   }
