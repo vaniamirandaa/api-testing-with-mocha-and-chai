@@ -1,13 +1,14 @@
 # api-testing-with-mocha-and-chai
-An API testing using Mocha framework and Chai as assertion with Page Object Model design pattern.
+An API testing using Mocha framework and Chai as assertion.
 
-For this simple project I use https://calm-plum-jaguar-tutu.cyclic.app/todos
+For this simple project I use Restful Booker API [Restful Booker](https://restful-booker.herokuapp.com)
 
-Check the repository [here](https://github.com/ndraaditiya/public-api-crud-todoApp)
+
+Check the docs here [here](https://restful-booker.herokuapp.com/apidoc/index.html)
 
 Test result:
 
-![Alt text](image.png)
+![Alt text](<Screenshot 2023-12-15 211108.png>)
 
 How to run the repository:
 

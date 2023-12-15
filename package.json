@@ -4,7 +4,7 @@
   "description": "",
   "main": "nn.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha tests/scripts/test.js --timeout 10000"
   },
   "keywords": [],
   "author": "",
@@ -12,6 +12,7 @@
   "dependencies": {
     "chai": "^4.3.10",
     "chai-http": "^4.4.0",
-    "mocha": "^10.2.0"
+    "mocha": "^10.2.0",
+    "sinon": "^17.0.1"
   }
 }
