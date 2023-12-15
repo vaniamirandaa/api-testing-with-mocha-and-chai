@@ -1,10 +1,10 @@
 # api-testing-with-mocha-and-chai
 An API testing using Mocha framework and Chai as assertion.
 
-For this simple project I use Restful Booker API [Restful Booker](https://restful-booker.herokuapp.com)
+For this simple project I use [Restful Booker API](https://restful-booker.herokuapp.com)
 
 
-Check the docs here [here](https://restful-booker.herokuapp.com/apidoc/index.html)
+Check the docs [here](https://restful-booker.herokuapp.com/apidoc/index.html)
 
 Test result:
 
